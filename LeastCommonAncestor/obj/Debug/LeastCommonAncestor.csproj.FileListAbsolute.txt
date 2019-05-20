@@ -1,0 +1,6 @@
+E:\project\dot net\ConsoleJsonParser\LeastCommonAncestor\bin\Debug\LeastCommonAncestor.exe.config
+E:\project\dot net\ConsoleJsonParser\LeastCommonAncestor\bin\Debug\LeastCommonAncestor.exe
+E:\project\dot net\ConsoleJsonParser\LeastCommonAncestor\bin\Debug\LeastCommonAncestor.pdb
+E:\project\dot net\ConsoleJsonParser\LeastCommonAncestor\obj\Debug\LeastCommonAncestor.csprojResolveAssemblyReference.cache
+E:\project\dot net\ConsoleJsonParser\LeastCommonAncestor\obj\Debug\LeastCommonAncestor.exe
+E:\project\dot net\ConsoleJsonParser\LeastCommonAncestor\obj\Debug\LeastCommonAncestor.pdb

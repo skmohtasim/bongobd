@@ -1,0 +1,8 @@
+E:\project\dot net\ConsoleJsonParser\ConsoleJsonParser\bin\Debug\ConsoleJsonParser.exe.config
+E:\project\dot net\ConsoleJsonParser\ConsoleJsonParser\bin\Debug\ConsoleJsonParser.exe
+E:\project\dot net\ConsoleJsonParser\ConsoleJsonParser\bin\Debug\ConsoleJsonParser.pdb
+E:\project\dot net\ConsoleJsonParser\ConsoleJsonParser\bin\Debug\Newtonsoft.Json.dll
+E:\project\dot net\ConsoleJsonParser\ConsoleJsonParser\bin\Debug\Newtonsoft.Json.xml
+E:\project\dot net\ConsoleJsonParser\ConsoleJsonParser\obj\Debug\ConsoleJsonParser.csprojResolveAssemblyReference.cache
+E:\project\dot net\ConsoleJsonParser\ConsoleJsonParser\obj\Debug\ConsoleJsonParser.exe
+E:\project\dot net\ConsoleJsonParser\ConsoleJsonParser\obj\Debug\ConsoleJsonParser.pdb
