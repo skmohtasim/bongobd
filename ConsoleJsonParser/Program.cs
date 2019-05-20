@@ -35,7 +35,7 @@ namespace ConsoleJsonParser
         {
             ExpandoObject expandoObject = new ExpandoObject();
             IDictionary<string, object> objects = expandoObject;
-
+            bool tempNodelog = true;
             foreach (var item in dictionary)
             {
                 bool processed = false;
@@ -69,7 +69,9 @@ namespace ConsoleJsonParser
 
                 if (!processed)
                 {
-                    keyLevel++;
+                    if(tempNodelog)
+                        keyLevel++;
+                    tempNodelog = false;
                     Console.Write(item.Key+":");
                     Console.WriteLine(keyLevel);
                     objects.Add(item);
